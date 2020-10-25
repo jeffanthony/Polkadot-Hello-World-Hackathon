@@ -8,13 +8,12 @@ To celebrate the integration on Gitcoin, we are organising Hello World! by Polka
 
 ## Beginner
 
-01 [TASK](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17)/[SUBMISSION]() Launch a Local Substrate Development Chain 
-
+01 [SUBMISSION]() for Launch a Local Substrate Development Chain [TASK](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17)  
 Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine the utf8 of my username.
 
-02 [TASK](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942)/[SUBMISSION]() Run A Private Substrate Network
+02 [SUBMISSION]() for Run A Private Substrate Network [TASK](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942)
 
-03 [TASK]()/[SUBMISSION]()
+03 [SUBMISSION](--) for -- [TASK](--)
 
 04 
 
@@ -42,6 +41,6 @@ Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine
 
 16 
 
-17 [TASK]()/[SUBMISSION]()
+17 [SUBMISSION](--) for -- [TASK](--)
 
-18 [TASK]()/[SUBMISSION]()
+18 [SUBMISSION](--) for -- [TASK](--)
