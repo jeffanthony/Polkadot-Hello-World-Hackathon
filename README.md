@@ -8,7 +8,7 @@ To celebrate the integration on Gitcoin, we are organising Hello World! by Polka
 
 ## Beginner
 
-01 [Launch a Local Substrate Development Chain](dot-Hello-World-Hackathon/blob/main/01%20Launch%20a%20Local%20Substrate%20Development%20Chain.png)  https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17   
+01 [Launch a Local Substrate Development Chain](dot-Hello-World-Hackathon/blob/main/01%20Launch%20a%20Local%20Substrate%20Development%20Chain.png)  gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17   
 Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine the utf8 of my username.
 
 02 [SUBMISSION]() for Run A Private Substrate Network https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942
