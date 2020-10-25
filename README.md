@@ -4,11 +4,15 @@ Gitcoin has integrated Polkadot and Kusama tokens (DOT and KSM) into its tech st
 
 To celebrate the integration on Gitcoin, we are organising Hello World! by Polkadot, a series of challenges to bring you on a journey of Polkadot development discovery.
 
-# My Submissions
+# SUBMISSIONS
+
+## Beginner
 
 01 [Launch a Local Substrate Development Chain](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17)
 
-02 
+Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine the utf8 of my username.
+
+02 [Run A Private Substrate Network](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942)
 
 03 
 
