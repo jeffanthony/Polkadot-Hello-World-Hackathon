@@ -13,9 +13,9 @@ Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine
 
 02 [Run A Private Substrate Network](https://github.com/jeffanthony/Polkadot-Hello-World-Hackathon/blob/main/02%20Run%20A%20Private%20Substrate%20Network.png) for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942
 
-03 [Run A Kusama Or Polkadot Node And Add It To Telemetry](--) for --
+03 [Run A Kusama Or Polkadot Node And Add It To Telemetry](https://github.com/jeffanthony/Polkadot-Hello-World-Hackathon/blob/main/03%20Polkadot%20with%20Telemetry.png) for https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938
 
-04 
+04 [Set An Identity On Kusama Or Polkadot's Development Version]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937
 
 05 
 
