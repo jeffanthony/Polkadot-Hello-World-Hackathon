@@ -15,7 +15,7 @@ Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine
 
 03 [Run A Kusama Or Polkadot Node And Add It To Telemetry](https://github.com/jeffanthony/Polkadot-Hello-World-Hackathon/blob/main/03%20Polkadot%20with%20Telemetry.png) for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938
 
-04 [Set An Identity On Kusama Or Polkadot's Development Version]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937
+04 [Set An Identity On Kusama Or Polkadot's Development Version](https://github.com/jeffanthony/Polkadot-Hello-World-Hackathon/blob/main/04%20ID%20on%20Polkadot%20Dev.png) for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937
 
 05 [Play With Westend]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941
 
