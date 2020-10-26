@@ -17,9 +17,9 @@ Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine
 
 04 [Set An Identity On Kusama Or Polkadot's Development Version]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937
 
-05 
+05 [Play With Westend]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941
 
-06 
+06 [Back End JavaScript]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/13/100023939
 
 07 
 
