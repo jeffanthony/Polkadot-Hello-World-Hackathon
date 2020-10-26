@@ -19,15 +19,15 @@ Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine
 
 05 [Play With Westend]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941
 
-06 [Back End JavaScript]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/13/100023939
+06 [FRAME Identity: Set An Identity On A Local --Dev Chain]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/10/100023936
 
-07 
+07 [Write An ERC-20 Smart Contract With Ink!]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
 
-08 
+08 [FRAME Multisig]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934
 
-09 
+09 [FRAME Development]() for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
 
-10 
+10 [Forkless Upgrades] for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932
 
 11 
 
