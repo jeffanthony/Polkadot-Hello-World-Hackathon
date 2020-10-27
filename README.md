@@ -17,7 +17,8 @@ Note: I used [this tool](https://mothereff.in/utf-8#jeffanthonyfds) to determine
 
 04 [Set An Identity On Kusama Or Polkadot's Development Version](https://github.com/jeffanthony/Polkadot-Hello-World-Hackathon/blob/main/04%20ID%20on%20Polkadot%20Dev.png) for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937
 
-05 [Play With Westend](https://westend.subscan.io/extrinsic/0x24af3c4149f738e0c73a123af1bd3f0539888c72bfe8b4c5eb8972a754051264) for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941
+05 [Play With Westend](https://westend.subscan.io/extrinsic/0x24af3c4149f738e0c73a123af1bd3f0539888c72bfe8b4c5eb8972a754051264) for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941  
+Note: The remark() is "Hello World!"
 
 06 [FRAME Identity: Set An Identity On A Local --Dev Chain](https://github.com/jeffanthony/Polkadot-Hello-World-Hackathon/blob/main/06%20FRAME-Identity.png) for gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/10/100023936
 
