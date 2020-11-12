@@ -1,0 +1,70 @@
+jeff@ub-64:~/code/moonbeam/tools/truffle/node_modules/truffle$ node_modules/.bin/truffle migrate --network alpha --reset
+
+Compiling your contracts...
+===========================
+> Compiling ./contracts/erc20.sol
+> Artifacts written to /home/jeff/code/moonbeam/tools/truffle/build/contracts
+> Compiled successfully using:
+   - solc: 0.5.5+commit.47a71e8f.Emscripten.clang
+
+
+
+Starting migrations...
+======================
+> Network name:    'alpha'
+> Network id:      43
+> Block gas limit: 0 (0x0)
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0x5094cb847fa4c78cbe79e57164fb1673b11c430814ad996e77131e28179fbed2
+   > Blocks: 2            Seconds: 16
+   > contract address:    0xe87d0858018A2c73ea517c8c236d86035a6Cd04A
+   > block number:        352971
+   > block timestamp:     1605218052
+   > account:             0x355DdAbbA5aA7F9f1ba205F548eB43a4a2A8BE8F
+   > balance:             9.96474632
+   > gas used:            190443 (0x2e7eb)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00380886 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00380886 ETH
+
+
+2_twenty_deploy.js
+==================
+
+   Deploying 'ERC20'
+   -----------------
+   > transaction hash:    0x2eaf1eeff2a228d354b4b311aad584fe9931c7e5e0dd1ab40d13b44792c616ab
+   > Blocks: 1            Seconds: 16
+   > contract address:    0xE6b35f7beAF89094Af4133257857b96B3be57419
+   > block number:        353011
+   > block timestamp:     1605218364
+   > account:             0x355DdAbbA5aA7F9f1ba205F548eB43a4a2A8BE8F
+   > balance:             9.947144
+   > gas used:            837772 (0xcc88c)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.01675544 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.01675544 ETH
+
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.01675544 ETH
